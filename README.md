@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Hospital Management System
+<img src="./assets/banner.png" alt="Hospital Management System" width="700"/>
 
 ### A microservices-based platform for hospital authentication, appointment booking & notifications
 
